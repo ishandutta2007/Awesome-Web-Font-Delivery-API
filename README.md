@@ -1,6 +1,6 @@
 # Awesome-Web-Font-Delivery-API
 
-# Top Web PDF Rendering API Ecosystem
+## Top Web PDF Rendering API Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Browser-Native Rendering, WASM-Powered Engines & Self-Hosted Annotation Layers*  
