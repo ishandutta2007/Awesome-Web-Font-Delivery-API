@@ -2,7 +2,7 @@
 
 # Awesome-Web-Font-Delivery-API
 
-# Top Web Font Delivery API Ecosystem
+## Top Web Font Delivery API Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Font Serving, GDPR-Compliant Subsetting & Build-Time Embedding*  
