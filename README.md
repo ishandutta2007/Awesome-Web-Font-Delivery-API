@@ -132,3 +132,12 @@ Star the repo if you find it useful!
 
 **Made for web developers serving typography that's fast, private, and properly licensed.**
 Let's make web font delivery more open, GDPR-compliant, and build-integrated.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Web-Font-Delivery-API&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Web-Font-Delivery-API_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Web-Font-Delivery-API_growth.svg">
+  </picture>
+</a>
