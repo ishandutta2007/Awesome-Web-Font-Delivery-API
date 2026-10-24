@@ -71,7 +71,7 @@ The table below outlines leading enterprise hosted and cloud-native SaaS web fon
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-A curated list of leading open-source projects for self-hosting web fonts, local font subsetting, CSS generation, and build-time bundling. Entries are ordered strictly descending by GitHub Stars_Count.
+A curated list of leading open-source projects for self-hosting web fonts, local font subsetting, CSS generation, and build-time bundling. Entries are ordered strictly descending by GitHub_Stars_Count.
 
 - **[google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)** [![GitHub_Stars](https://img.shields.io/github/stars/majodev/google-webfonts-helper?style=social&color=white)](https://github.com/majodev/google-webfonts-helper/stargazers) — **A hassle-free way to self-host Google Fonts.** Provides a web GUI and Docker image to download Google Font files in EOT, TTF, SVG, WOFF, and WOFF2 formats along with customized `@font-face` CSS snippets. Requires a Google Fonts API key for self-hosting. Best for one-time font extraction and static site deployment.
 
