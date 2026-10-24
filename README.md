@@ -1,7 +1,5 @@
 # Awesome-Web-Font-Delivery-API
 
-# Awesome-Web-Font-Delivery-API
-
 ## Top Web Font Delivery API Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
@@ -69,3 +67,5 @@ Star the repo if you find it useful!
 
 **Made for web developers serving typography that's fast, private, and properly licensed.**
 Let's make web font delivery more open, GDPR-compliant, and build-integrated.
+# Awesome-Web-Font-Delivery-API
+
